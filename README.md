@@ -19,16 +19,3 @@ Você executa o script diretamente no console do navegador e ele vai removendo o
 🛑 Como interromper o script
 
 Se quiser parar o processo antes de terminar, digite no console: clearInterval();
-
-🏷️ Sugestão de tópicos (tags) para o repositório:
-youtube
-
-javascript
-
-automation
-
-bookmarklet
-
-web-scraping
-
-assistir-mais-tarde
